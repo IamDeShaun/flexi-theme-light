@@ -1,0 +1,9 @@
+/node_modules
+/dist
+/lib
+/.sass-cache
+.sass-cache
+.DS_Store
+/packaged
+/plugins
+/src
